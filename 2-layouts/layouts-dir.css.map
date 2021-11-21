@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,OAAO,CAAC;EACJ,MAAM,EAAE,eAAe;EACvB,OAAO,EAAE,GAAG;CAAG",
+    "sources": [
+        "layouts-dir.sass",
+        "header.sass"
+    ],
+    "names": [],
+    "file": "layouts-dir.css"
+}

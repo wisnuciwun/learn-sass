@@ -8,8 +8,10 @@ body {
   padding: 4px;
 }
 
-.widget {
-  border-radius: 10px;
-  border: solid 2px black;
+.box {
+  background-color: green;
+  font-size: 20pt;
+  width: 150px;
+  height: 150px;
 }
 /*# sourceMappingURL=app.css.map */
